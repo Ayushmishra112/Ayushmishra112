@@ -1,12 +1,6 @@
 <div align="center">
 
-```bash
-> Initializing AyushOS v2.0
-> Loading fintech workflows.............done
-> Loading LLM experiments..............done
-> Loading stakeholder requirement panic.done
-> Status: somehow functioning
-```
+
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
@@ -207,6 +201,7 @@ product_parallel: "Both chess and product need 3-move foresight"
 
 <div align="center">
 <img src="https://media.tenor.com/kHcmsxlKHEAAAAAC/shahrukh-khan-srk.gif" width="280"/>
+<p align="center"><i>Me after someone says "Ye toh ek din ka kaam hai" xD</i></p>
 </div>
 
 ### Let's Build Something Cool.
