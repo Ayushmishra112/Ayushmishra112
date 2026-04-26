@@ -1,9 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:005BFF&height=190&section=header&text=Ayush%20Kumar%20Mishra&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Product%20Analyst%20%7C%20FinTech%20Chaos%20Manager%20%7C%20AI%20Builder&descAlignY=57&descSize=18" width="100%" />
+```bash
+> Initializing AyushOS v2.0
+> Loading fintech workflows.............done
+> Loading LLM experiments..............done
+> Loading stakeholder requirement panic.done
+> Status: somehow functioning
+```
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=720&lines=Turning+Messy+Business+Problems+into+Clean+Product+Flows;Making+LLMs+Hallucinate+Slightly+Less+Everyday;Professional+Requirement+Document+Survivor;Competitive+Chess+Player+Who+Still+Blunders+Queens" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+
+# AYUSH KUMAR MISHRA
+
+```bash
+> Product Analyst @ FinTech
+> Building LLM workflows that occasionally work on first try
+> Surviving stakeholder calls since forever
+```
+
+<a href="https://git.io/typing-svg"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5A0&center=true&vCenter=true&width=760&lines=%20Turning+business+chaos+into+product+logic;%20Training+AI+to+be+less+confidently+wrong;%20Professional+workflow+debugger;%20Chess+player+with+commitment+issues+to+safe+queen+moves" /> 
 </a>
 
 <br><br>
@@ -14,7 +30,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:mshra.ayush.112@gmail.com">
+<a href="mailto:mishra.ayush.112@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Drop%20a%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -40,7 +56,7 @@ into
 ---
 
 <div align="center">
-<img src="https://media.tenor.com/QzR5N6S8pGAAAAAC/panchayat-jeetu.gif" width="320"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320"/>
 </div>
 
 <p align="center"><i>Me after opening the 9th "urgent" business requirement of the day.</i></p>
@@ -79,10 +95,10 @@ mental_state: "stable unless prod breaks"
 ---
 
 <div align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="290"/>
 </div>
 
-<p align="center"><i>Production issue? No no... this is character development.</i></p>
+<p align="center"><i>Me explaining to everyone that the issue is "minor" while internally rewriting half the workflow.</i></p>
 
 ---
 
@@ -98,10 +114,10 @@ mental_state: "stable unless prod breaks"
 ---
 
 <div align="center">
-<img src="https://media.tenor.com/bmWd2Q8mq4AAAAAC/money-heist-professor.gif" width="330"/>
+<img src="https://media.giphy.com/media/KEYEpIngcmXlHetDqz/giphy.gif" width="310"/>
 </div>
 
-<p align="center"><i>When the RAG pipeline gives the correct answer without hallucinating compliance laws.</i></p>
+<p align="center"><i>When the AI workflow runs successfully once and you immediately update your resume.</i></p>
 
 ---
 
@@ -148,7 +164,7 @@ while(job_not_secured){
 ---
 
 <div align="center">
-<img src="https://media.tenor.com/6c8KXG8L0YQAAAAC/office-laptop.gif" width="300"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
 </div>
 
 <p align="center"><i>Me confidently deploying after saying "haan haan tested hai".</i></p>
@@ -208,5 +224,4 @@ I'm always up for a conversation.
 </a>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005BFF,100:00F5A0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:005BFF,50:111111,100:00F5A0&height=160&section=footer&text=Thanks%20for%20scrolling%20this%20far%20you%20deserve%20a%20cookie%20%F0%9F%8D%AA&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
