@@ -200,6 +200,7 @@ product_parallel: "Both chess and product need 3-move foresight"
 
 <div align="center">
 <img src="https://media.tenor.com/kHcmsxlKHEAAAAAC/shahrukh-khan-srk.gif" width="280"/>
+<p align="center"><i>Me after someone says "Ye toh ek din ka kaam hai" xD</i></p>
 </div>
 
 ### Let's Build Something Cool.
