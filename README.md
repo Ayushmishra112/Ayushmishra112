@@ -1,68 +1,212 @@
 <div align="center">
-  <h2>Hi there! I'm Ayush Kumar Mishra 🚀</h2>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Product+Analyst+%40+FinTech;Building+RAG+%26+GenAI+Pipelines;Competitive+Chess+Player+(1540%2B+Elo);Future+Associate+Product+Manager" alt="Typing SVG" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:005BFF&height=190&section=header&text=Ayush%20Kumar%20Mishra&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Product%20Analyst%20%7C%20FinTech%20Chaos%20Manager%20%7C%20AI%20Builder&descAlignY=57&descSize=18" width="100%" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=720&lines=Turning+Messy+Business+Problems+into+Clean+Product+Flows;Making+LLMs+Hallucinate+Slightly+Less+Everyday;Professional+Requirement+Document+Survivor;Competitive+Chess+Player+Who+Still+Blunders+Queens" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ayushmishra112&style=for-the-badge&color=00F5A0&label=PROFILE+VIEWS"/>
+&nbsp;
+<a href="https://linkedin.com/in/Ayushmishra112">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mshra.ayush.112@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Drop%20a%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-<br/>
+---
+
+# Hey there, I'm Ayush.
+
+I sit at the weirdly fun intersection of **FinTech, Product Thinking, AI workflows, and engineering logic**.
+
+By day, I decode loan workflows, trust systems, and user friction hidden inside enterprise products.  
+By night, I build **RAG pipelines, LLM automations, and GenAI systems** that try very hard not to embarrass me in production.
+
+I basically spend my life converting this:
+
+> "Can we just make one small workflow change?"
+
+into
+
+> "Why does this impact 11 APIs, 4 teams, 3 approval layers, and my mental stability?"
+
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl5bHV2MThzN3E0bzQ2OXNqNWU2Z3J6b2c2czIzZ2N5ZWQ5ZHVxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Hacking Meme" />
+<img src="https://media.tenor.com/QzR5N6S8pGAAAAAC/panchayat-jeetu.gif" width="320"/>
 </div>
 
-### 🕵️‍♂️ The TL;DR
-
-I'm a **Product Analyst** based in Gurugram, India, specializing in the sweet spot where **FinTech lending meets AI**. With a B.Tech in Computer Science Engineering (and a minor in AI/ML), I don't just look at dashboards—I understand the architecture beneath them. 
-
-When I’m not analyzing user trust frameworks or building AI models, you can probably find me on the chessboard. As a competitive player (Peak Elo 1540+), I apply the same sharp logic, pattern recognition, and foresight to product strategy as I do to a Sicilian Defense. ♟️
+<p align="center"><i>Me after opening the 9th "urgent" business requirement of the day.</i></p>
 
 ---
 
-### 🛠️ What I'm Up To
+### Current System Status
 
-- 💼 **Currently:** Driving product insights and strategy in the fintech lending space.
-- 🧠 **Tinkering with:** Generative AI, Large Language Models (LLMs), and making Retrieval-Augmented Generation (RAG) solve actual, real-world problems.
-- 🎯 **On the Horizon:** Actively looking for my next big challenge as an **Associate Product Manager (APM)** or **Product Analyst** where I can drive product vision from end to end.
-
----
-
-### 🚀 Featured Projects & Case Studies
-
-| Project | Description | Tech/Skills |
-| :--- | :--- | :--- |
-| **[RBI Compliance & Risk Analysis Model](#)** | A RAG-based AI system built to analyze complex RBI documents and generate contextual compliance insights instantly. | `Python`, `LLMs`, `RAG`, `GenAI` |
-| **[CRED Payment Trust Framework](#)** | A deep-dive case study and Trust Scorecard framework focusing on user trust, settlement frameworks, and fintech security. | `Product Strategy`, `FinTech`, `Data Analysis` |
-
-*(Make sure to link the project titles to your actual repositories or live apps!)*
+```yaml
+day_job: "Untangling fintech process spaghetti"
+building_now: "RAG + GenAI systems that solve actual business pain"
+career_mode: "Loading APM / Product opportunities..."
+chess_arc: "Trying to hit 1600 Elo without emotional damage"
+mental_state: "stable unless prod breaks"
+```
 
 ---
 
-### 💻 Tech Stack & Arsenal
+# What I Actually Do
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Product_Management-FF6F00?style=for-the-badge&logo=google-workspace&logoColor=white" alt="Product Management" />
-  <img src="https://img.shields.io/badge/Data_Analysis-0052CC?style=for-the-badge&logo=dataiku&logoColor=white" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-2196F3?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=meta&logoColor=white" alt="GenAI & RAG" />
-</p>
+### Product Analyst @ FinTech
+
+- Map broken workflows and convert them into usable product journeys
+- Translate business teams ↔ engineering teams without causing civil war
+- Build BRDs, PRDs, FRDs, logic documents, edge-case validations
+- Find loopholes in systems before users do
+
+### AI Builder / GenAI Explorer
+
+- RAG-based compliance assistants
+- LLM-powered document understanding systems
+- Automated validation engines
+- Prompt engineering for enterprise workflows
+- Making hallucinating AI slightly less delusional
 
 ---
-
-### ⚡ Random Stats & Facts
-
-- 🔍 **Bug hunting philosophy:** "Is it a bug, or an undocumented feature?"
-- 📈 **Product philosophy:** Data informs, but user empathy decides.
-- ♟️ **Chess flex:** Finding the forced mate in 3 (or trying to, at least).
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushmishra112&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
 </div>
 
-<br/>
+<p align="center"><i>Production issue? No no... this is character development.</i></p>
+
+---
+
+# Featured Builds
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| RBI Compliance Intelligence Engine | Reads dense RBI circulars and returns contextual risk/compliance answers instantly | Python, LLMs, RAG, Vector DB |
+| CKYC + GST + Banking Validation Workflows | Automated doc verification & rule-based underwriting checks | Product Logic, APIs, Python |
+| Loan Ops Workflow Automation | Reduced manual approval dependency with system-led validations | FinTech Product, SQL, BRDs |
+| CRED Trust Framework Case Study | Deep product teardown of payment trust & user confidence systems | Product Strategy, UX, Analysis |
+
+---
 
 <div align="center">
-  <i>Let's build something awesome. Reach out on <a href="https://linkedin.com/in/Ayushmishra112">LinkedIn</a> or check out my work above!</i>
+<img src="https://media.tenor.com/bmWd2Q8mq4AAAAAC/money-heist-professor.gif" width="330"/>
 </div>
+
+<p align="center"><i>When the RAG pipeline gives the correct answer without hallucinating compliance laws.</i></p>
+
+---
+
+# Tech Stack I Weaponize
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+# Competitive Coding Damage Report
+
+```cpp
+while(job_not_secured){
+    solve_DSA();
+    build_projects();
+    optimize_resume();
+    question_life_choices();
+}
+```
+
+---
+
+# Currently Debugging
+
+- FinTech workflows with 14 invisible approval dependencies
+- LLM prompts that become too creative when not asked to
+- Why one API success response contains failure inside nested object
+- Recruiters who say "we'll get back to you"
+- My opening prep against Sicilian sidelines
+
+---
+
+<div align="center">
+<img src="https://media.tenor.com/6c8KXG8L0YQAAAAC/office-laptop.gif" width="300"/>
+</div>
+
+<p align="center"><i>Me confidently deploying after saying "haan haan tested hai".</i></p>
+
+---
+
+# Chess + Pattern Recognition Addiction
+
+<div align="center">
+
+<a href="https://www.chess.com/member/YOUR_CHESS_USERNAME">
+<img src="https://img.shields.io/badge/Chess.com-1540%2B%20Elo-769656?style=for-the-badge&logo=chess.com&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://lichess.org/@/YOUR_LICHESS_USERNAME">
+<img src="https://img.shields.io/badge/Lichess-Play%20Me-000000?style=for-the-badge&logo=lichess&logoColor=white"/>
+</a>
+
+</div>
+
+```yaml
+white_opening: "London System"
+black_opening: "Sicilian Defense"
+best_skill: "Finding tactics"
+worst_skill: "Not blundering after finding tactics"
+product_parallel: "Both chess and product need 3-move foresight"
+```
+
+---
+
+# Fun Facts Before You Leave
+
+- I trust logs more than human assurances
+- I read RBI circulars so you don't have to
+- I have survived enough BRD revisions to legally qualify as battle-tested
+- I believe every “small change” is lying
+- My toxic trait is saying “this workflow can be optimized”
+
+---
+
+<div align="center">
+<img src="https://media.tenor.com/kHcmsxlKHEAAAAAC/shahrukh-khan-srk.gif" width="280"/>
+</div>
+
+### Let's Build Something Cool.
+
+Whether it's:
+- product systems,
+- AI automations,
+- workflow intelligence,
+- or just mutual suffering over enterprise bugs...
+
+I'm always up for a conversation.
+
+<a href="https://linkedin.com/in/Ayushmishra112">
+<img src="https://img.shields.io/badge/LinkedIn-Reach%20Out-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005BFF,100:00F5A0&height=120&section=footer"/>
